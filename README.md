@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hamza
-- 👀 I’m interested in coding JAVA, JavaScript, Data Science programming in Python and R,
-- 🌱 I’m currently learning Flutter, Spring, SpringBoot
+- 👋 Hi everyone!
+- 👀 You found yourself another programming enthusiast and code lover. I work over React, Flutter, Angular, Java, Python and R,
+- 🌱 Currently grasping the true essense of Spring and SpringBoot
 - 📫 How to reach me ...
 - ✔ https://www.linkedin.com/in/muhammad-hamzah-mushtaq-74733ba8/
 
